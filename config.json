@@ -1,1 +1,9 @@
-{"banner":{"enabled":true,"label":"حمایت","text":"حمایت از سازنده برنامه","link":"https://example.com","image":""}}
+{
+  "banner": {
+    "enabled": true,
+    "label": "بازی باستانی دوز",
+    "text": "دوز دوازده مهره، بیا یه دست دوز بزنیم",
+    "link": "https://doztwelve.ir",
+    "image": "https://drive.google.com/file/d/10Wu5fiFquZGlrKd__wYU9WIu2ifrFi-Q/view?usp=drivesdk"
+  }
+}
