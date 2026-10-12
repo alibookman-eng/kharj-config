@@ -1,6 +1,6 @@
 {
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "label": "بازی باستانی دوز",
     "text": "دوز دوازده مهره، بیا یه دست دوز بزنیم",
     "link": "https://doztwelve.ir",
